@@ -1,9 +1,9 @@
-package com.bridgelabz.sudhakar.practice.createjson;
+package com.bridgelabz.sudhakar.practice;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-public class Main {
+public class CreateJsonObject {
     public static void main(String[] args) {
         JSONObject jsonObject = new JSONObject();
         JSONArray objects= new JSONArray();
