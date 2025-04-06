@@ -1,0 +1,13 @@
+[
+  {
+  "age": 35,
+  "isStudent": false,
+  "hobbies": ["reading", "traveling"],
+  "address": "Bhopal;"
+  },
+  {
+  "age":21,
+  "isStudent": true,
+  "hobbies":["cooking","game"],
+  "address":"HHH"
+  }]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Alice Johnson",
+    "age": 25,
+    "email": "alice.johnson@example.com"
+  },
+  {
+    "name": "Bob Smith",
+    "age": 32,
+    "email": "bob.smith@example.com"
+  },
+  {
+    "name": "Charlie Davis",
+    "age": 18,
+    "email": "charlie.davis@example.com"
+  },
+  {
+    "name": "David Wilson",
+    "age": 40,
+    "email": "david.wilson@example.com"
+  },
+  {
+    "name": "Eve Garcia",
+    "age": 15,
+    "email": "eve.garcia@example.com"
+  },
+  {
+    "name": "Frank Rodriguez",
+    "age": 28,
+    "email": "frank.rodriguez@example.com"
+  },
+  {
+    "name": "Grace Martinez",
+    "age": 12,
+    "email": "grace.martinez@example.com"
+  },
+  {
+    "name": "Henry Anderson",
+    "age": 35,
+    "email": "henry.anderson@example.com"
+  },
+  {
+    "name": "Ivy Taylor",
+    "age": 22,
+    "email": "ivy.taylor@example.com"
+  },
+  {
+    "name": "Jack Thomas",
+    "age": 19,
+    "email": "jack.thomas@example.com"
+  }
+]
